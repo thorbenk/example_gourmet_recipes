@@ -1,0 +1,12 @@
+cilantro|herbs
+garlic
+pepper
+lime
+salt
+red onion|onion
+tomato
+avocado
+basil|herbs
+parmigiano|cheese
+pine nuts|nuts
+olive oil|olil

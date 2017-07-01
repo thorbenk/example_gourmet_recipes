@@ -1,0 +1,3 @@
+title: Wikimedia Cookbook 
+label: wikimedia_cookbook
+image: wikimedia_cookbook.png
